@@ -55,11 +55,3 @@ $mobile: 767px;
         }
     }
 }
-
-button {
-    background-color: tomato;
-
-    @include hover {
-        background-color: lightblue;
-    }
-}
